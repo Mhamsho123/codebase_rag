@@ -1,0 +1,4 @@
+[server]
+maxUploadSize = 2000  # Increase max upload size (in MB)
+enableCORS = false
+enableXsrfProtection = false

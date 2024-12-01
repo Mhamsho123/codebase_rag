@@ -1,0 +1,23 @@
+# Ignore environment variables
+.env
+
+# Ignore Python virtual environments
+ven/
+venv/
+env/
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and temporary files
+*.log
+*.cache
+*.egg-info/
+.DS_Store
+
+# Ignore other system files
+Thumbs.db
